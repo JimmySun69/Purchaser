@@ -1,0 +1,2 @@
+# Purchaser
+The original dataset Purchasers.xlsx contains data on over 800 individuals being tracked by Zapper, a technology company that has been marketing its newest electronic product in the United States. The file contains a number of demographics on these customers: their age, weight, income, pay type, car value, credit card debt, gender, whether they live alone, dwelling type, monthly number of trips to the mall, and neighborhood. It also indicates whether they have purchased the company’s newest electronic product.
