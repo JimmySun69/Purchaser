@@ -40,4 +40,5 @@ lose potential customer, thus TPR should be high,
 but we don’t want to waste our cost either, so the
 TNR should be fairly high as well.
 According to the ROC curve output, the chosen cut-off rate goes to 0.37 to make a balance
-![ROC-curve](ROC-vurve.png)
+</br>
+![ROC](ROC.png)
