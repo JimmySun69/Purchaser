@@ -33,3 +33,11 @@ Here is some maths behind Logistic Regression
 Using Excel add-in called 'Solver' to build the logistic regression model from scratch. 700 of the observations are used for trainging (~80%) and 150 of the obeservations are used for testing (~20%)
 Here is the output of interpretation of model output
 ![model](model.png)
+
+### Validation of Fit
+Explanation: For the company, we never want to
+lose potential customer, thus TPR should be high,
+but we don’t want to waste our cost either, so the
+TNR should be fairly high as well.
+According to the ROC curve output, the chosen cut-off rate goes to 0.37 to make a balance
+![ROC-curve](ROC-vurve.png)
